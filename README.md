@@ -9,7 +9,7 @@ More details refer to our dataset paper: I-Nema: A Biological Image Dataset for 
 https://arxiv.org/abs/2103.08335
 
 
-Please cite:
+Please cite our paper:
 @misc{lu2021inema,
       title={I-Nema: A Biological Image Dataset for Nematode Recognition}, 
       author={Xuequan Lu and Yihao Wang and Sheldon Fung and Xue Qing},
