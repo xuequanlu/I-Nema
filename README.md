@@ -14,10 +14,7 @@ Please cite:
       title={I-Nema: A Biological Image Dataset for Nematode Recognition}, 
       author={Xuequan Lu and Yihao Wang and Sheldon Fung and Xue Qing},
       year={2021},
-      
       eprint={2103.08335},
-      
       archivePrefix={arXiv},
-      
       primaryClass={q-bio.QM}
 }
